@@ -1,0 +1,16 @@
+sn=44493/VELA01111
+model=L17A
+appid=000000000000000001
+version=1.90.33
+channel=release
+uid=000000001
+miot_did=0000000001
+miot_sessionid=00000_0000000000_0000000000000000001
+miot_token=te6oq7ah9k
+device_id=ffffffff-ffff-ffff-0000-ffffffffffff
+bt_mac=F0:E0:DE:AD:BE:EF
+bt_name=VELA Sound-1111
+mac=E0:E0:DE:AD:BE:EF
+request_access_token={"code":0,"message":"Success","data":{"expiresInSec":56464,"token":"GHCT/JiVBXO97d37nCwZs1/Vl5nsfQyTkfOwT/B2+d2WSPcXwXTYfreaAdOZlO2ePCNLpKf5LKVIFctNn+iVNQ9BKYidr4jJpG+31RBgM1JL8ht8d1kIWFNZC9ITKPjb3t1LR/BxV27RXe/swxdMYC9UGBJjWBvYkCdJaJ3j/XbbuWu0+QEYEHtB8lpyzomQfiO5KesZsjEYFCR1WuAsU03cLjKqqK7CP5qsWtbvAA==","signature":"GBBXDfKLYP5TnCinAZC7UAaIGBIrpOXmDxtLpKOFk/ZVjXqCewEoFPD5XPBwhz2kJfsa8BgAg08g+ualAA=="}}
+get_mico_token=v2:GHCH4A3kG8tgEAakRWEOiXDWHwHgWRNIeV2nvjnGfaAwyUYkBmD/yHge1YbbIenw4VgQ6qD3qarHJsvb1WS0G5QhJdSQG2WHqZgsExcUeau1PhfzRzFON92ZNTcfPbhBGAeSLXsCH43aaJ+6m6EOt/zRGBKIcd5GsbNOMYpuwImtP79odgEYEFHWTvDXcxYjsUqR1t1PVQ0YFGuThf1L2+AhzytYplj5sb8KKImOAA==:GBCNGmd75ix4jbWF/hn8H1nPGBI7oVj3YyBNwo/bmDseuTPP4AEoFNQjponMWWDNYhLZSaSQpiEjOSfsAA==:xLQKDwhazxaHhiS4Kny41oCgD7wqsYLV6xDrIzq/7CA=:45337d0a-7421-4286-94b0-b602182776a8
+mibrain_level get={"level":"product"}
